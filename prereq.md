@@ -10,6 +10,8 @@
 
 * [Download and install Bot Framework Composer](https://docs.microsoft.com/en-us/composer/install-composer) for Windows, macOS, or Linux.
 
+## API Access for Workshop 
+
 * Sign up for a [free Weather API subscription with OpenWeather](https://openweathermap.org/price). After you create your account and subscribe, you can get your API key by clicking your user name from the navigation bar and selecting My API keys.
 
 ## Power Virtual Agents
