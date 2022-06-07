@@ -11,6 +11,7 @@
 * [Custom question answering](https://aka.ms/announcing-custom-question-answering)
 * [Migrate from QnAMaker](https://docs.microsoft.com/en-us/azure/cognitive-services/language-service/question-answering/how-to/migrate-qnamaker)
 * [Getting started with custom questions](https://docs.microsoft.com/en-us/azure/cognitive-services/language-service/question-answering/how-to/create-test-deploy)
+* [Language Studio](https://docs.microsoft.com/en-us/azure/cognitive-services/language-service/language-studio)
 
 #### Power Virtual Agents
 
