@@ -9,6 +9,9 @@ This workshop covers the following topics:
 * Creating a knowledge base for a Bot 
 * Using Conversational Language Understanding  
 * Integrations with PVA and Bot Framework skills
+* Channels for Bots
+  * External-facing web apps
+  * Teams and other chat platforms
 
 ## Prerequisites
 
