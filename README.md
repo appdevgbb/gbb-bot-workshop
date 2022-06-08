@@ -20,4 +20,5 @@ This workshop covers the following topics:
 
 * [Use Bot Composer to create a Weather Bot](https://docs.microsoft.com/en-us/composer/tutorial-create-weather-bot)
 * [Setup a knowledge base with Custom Questions](https://docs.microsoft.com/en-us/azure/cognitive-services/language-service/question-answering/quickstart/sdk?pivots=studio)
+* Add a severe weather knowledge base to Weather Bot
 * Improve intent recognition and conversational understanding in the Weather Bot
